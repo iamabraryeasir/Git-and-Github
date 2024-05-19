@@ -115,3 +115,8 @@ git add .
 git commit -m "Commit Massage"
 ```
 
+### 1️⃣2️⃣ To push/upload the local changes to Github/Cloud.
+
+```bash
+git push -u origin main
+```
