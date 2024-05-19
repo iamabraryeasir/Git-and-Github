@@ -40,6 +40,13 @@ Usually when we track projects using Git or upload them on Github we treat them 
 
 The commit means taking a snapshot of a code version and add the code to the main code base. Basically creating a history for a specific code version.
 
+### 8️⃣ Generally we have 4 type of states in git.
+
+1. Untracked => New file that git doesn't yet track.
+2. Modified => Changed.
+3. Staged => File is ready to be committed.
+4. Unmodified => Unchanged.
+
 ## 👉 All Git Commands and there meanings.
 
 ### 1️⃣ Checking Git Version.
@@ -77,3 +84,34 @@ git clone <--repoLink-->
 ```bash
 git status
 ```
+
+### 7️⃣ To View all the files including hidden file (Linux/Bash).
+
+```bash
+ls -a
+```
+
+### 8️⃣ To View all the files including hidden file (Windows/PowerShell).
+
+```bash
+dir -force
+```
+
+### 9️⃣ To add specific changed file.
+
+```bash
+git add <--fileName-->
+```
+
+### 1️⃣0️⃣ To add all the changed Files.
+
+```bash
+git add .
+```
+
+### 1️⃣1️⃣ To commit the Changes to the repo.
+
+```bash
+git commit -m "Commit Massage"
+```
+
