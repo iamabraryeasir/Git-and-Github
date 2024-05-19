@@ -1,7 +1,7 @@
 # Git and Github ⚡
 
 Tutorial Video Link => [Complete Git and GitHub Tutorial for Beginners](https://youtu.be/Ez8F0nW6S-w) <br>
-Tutorial Completed => [00:06:36](https://youtu.be/Ez8F0nW6S-w?t=396)
+Tutorial Completed => [00:23:55](https://youtu.be/Ez8F0nW6S-w?t=1435)
 
 ## 👉 Git Setup In Local.
 
@@ -31,4 +31,29 @@ Github is a service/website that helps developer to manage there code on the clo
 
 Usually when we track projects using Git or upload them on Github we treat them as folders. And in the language of Git this folders are called Repositories or in short Repos. So repo is a folder in the language of Git.
 
+### 6️⃣ There are 2 steps to add changes in Github.
+
+1. Add the change.
+2. Commit the change.
+
+### 7️⃣ What does commit means??
+
+The commit means taking a snapshot of a code version and add the code to the main code base. Basically creating a history for a specific code version.
+
 ## 👉 All Git Commands and there meanings.
+
+### 1️⃣ Checking Git Version.
+
+> git --version
+
+### 2️⃣ Configure Git Username.
+
+> git config --global user.name "yourUserName"
+
+### 3️⃣ Configure Git Email.
+
+> git config --global user.email "youremail@gmail.com"
+
+### 4️⃣ To Check if the Username and Email is properly configured.
+
+> git config --list
