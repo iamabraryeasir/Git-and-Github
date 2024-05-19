@@ -43,9 +43,9 @@ The commit means taking a snapshot of a code version and add the code to the mai
 ## 👉 All Git Commands and there meanings.
 
 ### 1️⃣ Checking Git Version.
-
-> git --version
-
+```bash
+git --version
+```
 ### 2️⃣ Configure Git Username.
 
 > git config --global user.name "yourUserName"
@@ -57,3 +57,11 @@ The commit means taking a snapshot of a code version and add the code to the mai
 ### 4️⃣ To Check if the Username and Email is properly configured.
 
 > git config --list
+
+### 5️⃣ To clone a github repo to local system.
+
+> git clone --repoLink--
+
+### 6️⃣ To display the status of the codebase.
+
+> git status
