@@ -1,6 +1,6 @@
 # Git and Github ⚡
 
-Tutorial Video Link => [Complete GIT in 1 video](https://youtu.be/tz82ola3oy0)
+Tutorial Video Link => [Complete GIT in 1 video](https://youtu.be/tz82ola3oy0) <br>
 Tutorial Completed => []()
 
 ## 👉 Git Setup In Local.
@@ -20,8 +20,15 @@ A version control system is a tool/software that helps us in tracking changes in
 
 ### 3️⃣ What is Github??
 
-### 4️⃣ Git is primarily used for `2 things.`
-1. 
-2. 
+Github is a service/website that helps developer to manage there code on the cloud using Git.
+
+### 4️⃣ Git is primarily used for 2 things.
+
+1. Track the code history.
+2. Collaborate with Multiple Developers.
+
+### 5️⃣ What is a Repo??
+
+Usually when we track projects using Git or upload them on Github we treat them as folders. And in the language of Git this folders are called Repositories or in short Repos. So repo is a folder in the language of Git.
 
 ## 👉 All Git Commands and there meanings.
