@@ -1,7 +1,7 @@
 # Git and Github ⚡
 
 Tutorial Video Link => [Complete Git and GitHub Tutorial for Beginners](https://youtu.be/Ez8F0nW6S-w) <br>
-Tutorial Completed => [00:23:55](https://youtu.be/Ez8F0nW6S-w?t=1435)
+Tutorial Completed => [00:39:31](https://youtu.be/Ez8F0nW6S-w?t=2371)
 
 ## 👉 Git Setup In Local.
 
