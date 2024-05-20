@@ -174,3 +174,9 @@ git checkout <--branch name-->
 ```bash
 git branch -d <--branch name-->
 ```
+
+### 2️⃣1️⃣ Comparing 2 branches.
+
+```bash
+git diff <--branch name-->
+```
