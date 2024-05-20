@@ -1,8 +1,5 @@
 # Git and Github ⚡
 
-Tutorial Video Link => [Complete Git and GitHub Tutorial for Beginners](https://youtu.be/Ez8F0nW6S-w) <br>
-Tutorial Completed => [00:39:31](https://youtu.be/Ez8F0nW6S-w?t=2371)
-
 ## 👉 Git Setup In Local.
 
 1. Goto this link [Git Download](https://git-scm.com/downloads) and download and install git according to your system preference.
@@ -198,8 +195,21 @@ git diff <--branch name-->
 ```bash
 git pull origin main
 ```
+
 ### 2️⃣3️⃣ Merging branches.
 
 ```bash
 git merge <--other branch name-->
+```
+
+### 2️⃣4️⃣ See commit history.
+
+```bash
+git log
+```
+
+### 2️⃣5️⃣ Git reset with change in code editor.
+
+```bash
+git reset --hard <--Commit Hash-->
 ```
