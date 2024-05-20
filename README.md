@@ -47,6 +47,10 @@ The commit means taking a snapshot of a code version and add the code to the mai
 3. Staged => File is ready to be committed.
 4. Unmodified => Unchanged.
 
+### 9️⃣ What is a Pull Request???
+
+It lets you tell others about changes you've pushed to a branch in a repository on GitHub.
+
 ## 👉 All Git Commands and there meanings.
 
 ### 1️⃣ Checking Git Version.
