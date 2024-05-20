@@ -120,3 +120,39 @@ git commit -m "Commit Massage"
 ```bash
 git push -u origin main
 ```
+
+### 1️⃣3️⃣ Initialize git in a directory.
+
+```bash
+git init
+```
+
+### 1️⃣4️⃣ To push/upload the local changes to Github/Cloud.
+
+```bash
+git init
+```
+
+### 1️⃣5️⃣ Adding the remote/github origin.
+
+```bash
+git remote add origin <--repoLink-->
+```
+
+### 1️⃣6️⃣ To verify the remote origin.
+
+```bash
+git remote -v
+```
+
+### 1️⃣7️⃣ To check the branch.
+
+```bash
+git branch
+```
+
+### 1️⃣8️⃣ To rename a branch to main.
+
+```bash
+git branch -M main
+```
