@@ -156,3 +156,22 @@ git branch
 ```bash
 git branch -M main
 ```
+
+### 1️⃣9️⃣ Creating new branch.
+
+```bash
+git checkout -b <--new branch name-->
+```
+
+### 2️⃣0️⃣ Navigating through branches.
+
+```bash
+git checkout <--branch name-->
+```
+
+### 2️⃣1️⃣ Deleting a branch.
+
+```bash
+git branch -d <--branch name-->
+```
+Hello, New Branch
