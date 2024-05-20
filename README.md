@@ -47,6 +47,10 @@ The commit means taking a snapshot of a code version and add the code to the mai
 3. Staged => File is ready to be committed.
 4. Unmodified => Unchanged.
 
+### 9️⃣ What is a Pull Request???
+
+It lets you tell others about changes you've pushed to a branch in a repository on GitHub.
+
 ## 👉 All Git Commands and there meanings.
 
 ### 1️⃣ Checking Git Version.
@@ -155,4 +159,28 @@ git branch
 
 ```bash
 git branch -M main
+```
+
+### 1️⃣9️⃣ Creating new branch.
+
+```bash
+git checkout -b <--new branch name-->
+```
+
+### 2️⃣0️⃣ Navigating through branches.
+
+```bash
+git checkout <--branch name-->
+```
+
+### 2️⃣1️⃣ Deleting a branch.
+
+```bash
+git branch -d <--branch name-->
+```
+
+### 2️⃣1️⃣ Comparing 2 branches.
+
+```bash
+git diff <--branch name-->
 ```
