@@ -174,4 +174,3 @@ git checkout <--branch name-->
 ```bash
 git branch -d <--branch name-->
 ```
-Hello, New Branch
