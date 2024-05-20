@@ -51,6 +51,14 @@ The commit means taking a snapshot of a code version and add the code to the mai
 
 It lets you tell others about changes you've pushed to a branch in a repository on GitHub.
 
+### 1️⃣0️⃣ What does Pull Command do??
+
+It is used to fetch and download content from a remote repo and immediately update the local repo to match that content.
+
+### 1️⃣1️⃣ What is Merge Conflicts??
+
+It is an event that takes place when Git is unable to automatically resolve differences in code between two commits.
+
 ## 👉 All Git Commands and there meanings.
 
 ### 1️⃣ Checking Git Version.
@@ -183,4 +191,15 @@ git branch -d <--branch name-->
 
 ```bash
 git diff <--branch name-->
+```
+
+### 2️⃣2️⃣ Pulling remote content from Github.
+
+```bash
+git pull origin main
+```
+### 2️⃣3️⃣ Merging branches.
+
+```bash
+git merge <--other branch name-->
 ```
