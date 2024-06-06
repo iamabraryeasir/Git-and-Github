@@ -139,7 +139,7 @@ git init
 ### 1️⃣4️⃣ To push/upload the local changes to Github/Cloud.
 
 ```bash
-git init
+git push -u origin main
 ```
 
 ### 1️⃣5️⃣ Adding the remote/github origin.
